@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\programms\КГ_курсач\v2_PyrPrys_Roberts_Flood_Inf\Graphics.cpp">
+    <ClCompile Include="Graphics.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\programms\КГ_курсач\v2_PyrPrys_Roberts_Flood_Inf\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\programms\КГ_курсач\v2_PyrPrys_Roberts_Flood_Inf\NewGarphics.cpp">
+    <ClCompile Include="NewGarphics.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\programms\КГ_курсач\v2_PyrPrys_Roberts_Flood_Inf\Graphics.h">
+    <ClInclude Include="Graphics.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\programms\КГ_курсач\v2_PyrPrys_Roberts_Flood_Inf\NewGarphics.h">
+    <ClInclude Include="NewGarphics.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
